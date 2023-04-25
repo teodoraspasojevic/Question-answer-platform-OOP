@@ -7,4 +7,6 @@ The platform containing questions and different answers is implemented in an obj
 
 The next class we implemented is the Tree class, which has a pointer to the root TreeNode. The Tree class is implemented so we can store a Question and different new Questions and Answers to it. In this class, we implement all of the methods that are necessary for searching through the Tree. For tree search, the assignment requires us to use only the level order algorithm.
 
-The final class is the QuestionPlatform class, which has a vector of pointers to different initial Questions. This class stores all of the Questions and all of the reactions to them. Moreover, exception handling is implemented using try-catch blocks and creating custom exception classes.
+The final class is the QuestionPlatform class, which has a vector of pointers to different initial Questions. This class stores all of the Questions and all of the reactions to them. 
+
+Moreover, exception handling is implemented using try-catch blocks and creating custom exception classes.
