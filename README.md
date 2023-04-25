@@ -1,4 +1,4 @@
-# Question-answer-platfrom-oop
+# Question-answer-platfrom-OOP
 Implementation of a part of a question and answer platform using the object-oriented programming and a tree as a data structure, with the level order algorithm for search through the platform.
 
 Implementation
